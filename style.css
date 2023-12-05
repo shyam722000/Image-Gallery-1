@@ -37,12 +37,7 @@
             }
         }
        
-        @media (max-width:791px){
-            .box{
-                flex:33.3%; 
-                /* flex: calc(100/3); */
-            }
-        }
+       
         @media (max-width:507px){
             .box{
                 flex:50%;
